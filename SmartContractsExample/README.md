@@ -1,4 +1,4 @@
-# Hedera-Examples
+# Deploy Smart Contracts on Hedera
 
 
 How to write a getter-setter smart contract in Solidity and deploy it on the Hedera network:
